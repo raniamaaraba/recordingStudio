@@ -1,0 +1,17 @@
+F:\programs\studioTwo\studioTwo\bin\Debug\net6.0-windows\studioTwo.exe
+F:\programs\studioTwo\studioTwo\bin\Debug\net6.0-windows\studioTwo.deps.json
+F:\programs\studioTwo\studioTwo\bin\Debug\net6.0-windows\studioTwo.runtimeconfig.json
+F:\programs\studioTwo\studioTwo\bin\Debug\net6.0-windows\studioTwo.dll
+F:\programs\studioTwo\studioTwo\bin\Debug\net6.0-windows\studioTwo.pdb
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.csproj.AssemblyReference.cache
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.Form1.resources
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.csproj.GenerateResource.cache
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.AssemblyInfoInputs.cache
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.AssemblyInfo.cs
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.csproj.CoreCompileInputs.cache
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.dll
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\refint\studioTwo.dll
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.pdb
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\studioTwo.genruntimeconfig.cache
+F:\programs\studioTwo\studioTwo\obj\Debug\net6.0-windows\ref\studioTwo.dll
